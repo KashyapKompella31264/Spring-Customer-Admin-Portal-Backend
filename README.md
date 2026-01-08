@@ -18,7 +18,6 @@ View customer profiles
 Search customers by ID or name
 
 🖥 Frontend
-
 JSP-based UI for server-side rendering
 
 React used for dynamic admin dashboards & form handling
