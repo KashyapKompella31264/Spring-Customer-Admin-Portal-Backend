@@ -5,7 +5,6 @@ Secure Admin login
 Session management
 
 Role-based access (Admin)
-
 👥 Customer Management
 Add new customers
 
